@@ -1,0 +1,8 @@
+name = "PkgTemplates"
+uuid = "13bfcec1-8c23-401b-acd2-41dd633173fa"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
